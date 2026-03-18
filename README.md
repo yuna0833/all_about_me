@@ -6,7 +6,7 @@
 
 ## 한 줄 소개
 
-데이터와 MLOps에 관심이 많은 엔지니어
+데이터와 MLOps 문제를 구조적으로 푸는 엔지니어
 
 ## 문서 목록
 
@@ -14,3 +14,10 @@
 - tech-stack
 - workstyle
 - favorites
+
+## 문서 설명
+
+- profile: 기본 프로필 정보
+- tech-stack: 기술 스택 정리
+- workstyle: 업무 스타일 정리
+- favorites: 관심사 정리
